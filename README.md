@@ -72,6 +72,4 @@ Implement a scoring system based on time and accuracy.
 Contributions
 Feel free to fork the repository and contribute! Submit a pull request for any enhancements or bug fixes.
 
-License
-This project is licensed under the MIT License.
 
